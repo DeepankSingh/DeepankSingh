@@ -35,7 +35,7 @@
 ---
 
 ## Support:
-If you like my work, consider buying me a coffee!
+
 
 [![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=deepank_singh&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/deepank_singh)
 

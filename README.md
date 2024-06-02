@@ -1,9 +1,11 @@
-# Hi There👋, I'm DEEPANK SINGH
+<h1 align="center">Hi There👋, I'm DEEPANK SINGH</h1>
 
-![Header](https://your-image-url.com/banner.png)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmQ0eDIwcHRmN3g3bzU1eWpieGV0MWg3emo4MW1pOWIzbXNmcncyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jQ1OZripkVCfH3DsYT/giphy.gif" width="800" height="350" alt="Header">
+</p>
 
-## 🔭 I’m currently working on ____
-## 🌱 I’m currently learning Java, SpringBoot, DevOps
+
+## 🌱 I’m currently learning Java, SpringBoot, .NET
 ## 📫 How to reach me: singhdeepank9@gmail.com
 
 ---

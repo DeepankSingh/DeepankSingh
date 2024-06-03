@@ -73,12 +73,6 @@
 </a>
 
 
----
-
-## Support:
-
-
-[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=deepank_singh&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/deepank_singh)
 
 ---
 
@@ -94,6 +88,15 @@
 
 ## My GitHub Streaks:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepank-singh&theme=radical)
+
+---
+
+
+
+## Support:
+
+
+[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=deepank_singh&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/deepank_singh)
 
 ---
 

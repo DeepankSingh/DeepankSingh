@@ -77,7 +77,9 @@
 ---
 
 ## Languages Used:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepank-singh&layout=compact&theme=radical)
+![Most Used Languages](https://api.githubtrends.io/user/svg/DeepankSingh/langs?time_range=one_year&loc_metric=changed&compact=True&theme=bright_lights)
+
+
 
 ---
 
@@ -87,12 +89,10 @@
 ---
 
 ## My GitHub Streaks:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepank-singh&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DeepankSingh&theme=dark)](https://git.io/streak-stats)
+
 
 ---
-
-
-
 ## Support:
 
 

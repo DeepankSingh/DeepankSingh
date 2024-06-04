@@ -84,8 +84,7 @@
 ---
 
 ## My GitHub Stats:
-![Deepank's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepank-singh&show_icons=true&theme=radical)
-
+![Deepank's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeepankSingh&theme=material_palenight)
 ---
 
 ## My GitHub Streaks:

@@ -5,7 +5,7 @@
 </p>
 
 
-## 🌱 I’m currently learning Java, SpringBoot, .NET
+## 🌱 I’m currently learning Java, SpringBoot.
 ## 📫 How to reach me: singhdeepank9@gmail.com
 
 ---

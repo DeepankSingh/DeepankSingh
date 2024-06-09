@@ -25,12 +25,16 @@
 </div>
 
 ---
-
-<p align="center">Languages Used:</p>
-
+<p align = "center">
+ Languages Used:
+  </p>
+  
 <div align="center">
-  ![Most Used Languages](https://api.githubtrends.io/user/svg/DeepankSingh/langs?time_range=one_year&loc_metric=changed&compact=True&theme=bright_lights)
+  
+![Most Used Languages](https://api.githubtrends.io/user/svg/DeepankSingh/langs?time_range=one_year&loc_metric=changed&compact=True&theme=bright_lights)
+
 </div>
+
 
 ---
 
@@ -41,11 +45,14 @@
 </div>
 
 ---
-
-<p align="center">My GitHub Streaks:</p>
+<p align = "center">
+ My GitHub Streaks:
+</p>
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=DeepankSingh&theme=dark)](https://git.io/streak-stats)
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=DeepankSingh&theme=dark)](https://git.io/streak-stats)
+
 </div>
 
 ---

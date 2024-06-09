@@ -17,20 +17,15 @@
 <div align="center">
 
 [![GCP](https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000)](https://cloud.google.com/)
-[![Azure](https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000)](https://azure.microsoft.com/)
 [![C](https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000)](https://isocpp.org/)
 [![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Docker](https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000)](https://www.docker.com/)
 [![Git](https://img.icons8.com/?size=100&id=12599&format=png&color=000000)](https://git-scm.com/)
 [![HTML](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Java](https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000)](https://www.java.com/)
 [![JavaScript](https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Kubernetes](https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000)](https://kubernetes.io/)
 [![Linux](https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000)](https://www.kernel.org/)
 [![MySQL](https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000)](https://www.mysql.com/)
 [![Python](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000)](https://www.python.org/)
-[![React](https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000)](https://reactjs.org/)
 
 </div>
 

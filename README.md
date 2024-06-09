@@ -19,6 +19,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="50" height="50" alt="HTML"></a>
   <a href="https://www.java.com/"><img src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" width="50" height="50" alt="Java"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" width="50" height="50" alt="JavaScript"></a>
+  <a href = "https://www.postgresql.org/" ><img src = "https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="50" height="50" alt="PostgreSQL"></a>
   <a href="https://www.kernel.org/"><img src="https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000" width="50" height="50" alt="Linux"></a>
   <a href="https://www.mysql.com/"><img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="50" height="50" alt="MySQL"></a>
   <a href="https://www.python.org/"><img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" width="50" height="50" alt="Python"></a>

@@ -23,6 +23,10 @@
   <a href="https://www.kernel.org/"><img src="https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000" width="50" height="50" alt="Linux"></a>
   <a href="https://www.mysql.com/"><img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="50" height="50" alt="MySQL"></a>
   <a href="https://www.python.org/"><img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" width="50" height="50" alt="Python"></a>
+  <a href="https://www.postman.com/"><img src="https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000" width="50" height="50" alt="Python"></a>
+
+
+  
 </div>
 
 ---
